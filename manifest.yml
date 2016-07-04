@@ -11,6 +11,6 @@ applications:
   buildpack: php_buildpack
   
   declared-services:
-  mysql:
-    label: cleardb
-    plan: spark
+      ClearDB MySQL Database:
+        label: cleardb
+        plan: spark
