@@ -10,7 +10,6 @@ Just click the Bluemix button below to have this application deployed in your Bl
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/brunocfnba/php-mysql-bluemix)
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/brunocfnba/php-mysql-bluemix)
 
 
 > **Note:**
