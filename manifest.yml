@@ -9,3 +9,8 @@ applications:
   services:
   - mysql
   buildpack: php_buildpack
+  
+  declared-services:
+  mysql:
+    label: cleardb
+    plan: spark
